@@ -1,4 +1,10 @@
 import Entities.*;
+import Entities.Bestellung;
+import Entities.Bundesland;
+import Entities.Kunde;
+import Entities.Landkreis;
+import Entities.Ort;
+import Entities.Produkt;
 import jakarta.persistence.EntityManager;
 import jakarta.persistence.EntityManagerFactory;
 import jakarta.persistence.Persistence;
