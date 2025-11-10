@@ -1,0 +1,14 @@
+<changelist name="Uncommitted_changes_before_revert_[Changes]" date="1762774929704" recycled="true" deleted="true">
+  <option name="PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_revert_[Changes]/shelved.patch" />
+  <option name="DESCRIPTION" value="Uncommitted changes before revert [Changes]" />
+  <binary>
+    <option name="BEFORE_PATH" value="target/test-classes/CriteriaBuilderTests.class" />
+    <option name="AFTER_PATH" value="target/test-classes/CriteriaBuilderTests.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_revert_[Changes]/CriteriaBuilderTests.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="target/test-classes/QueryDSLTests.class" />
+    <option name="AFTER_PATH" value="target/test-classes/QueryDSLTests.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_revert_[Changes]/QueryDSLTests.class" />
+  </binary>
+</changelist>
