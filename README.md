@@ -1,6 +1,6 @@
 # Dynamic Filtering
 
-A Java project demonstrating advanced filtering capabilities for JPA entities using both **JPA Criteria API** or **QueryDSL**.
+A Java project demonstrating advanced filtering capabilities for JPA entities using both **JPA Criteria API** and **QueryDSL**.
 
 ## Installation & Running
 
@@ -41,7 +41,10 @@ The project includes sample entities representing a simplified order management 
 - `Kunde` (Customer)
 - `Bestellung` (Order)
 - `Produkt` (Product)
-- `Ort` / `Landkreis` / `Bundesland` (Location hierarchy)
+- `Ort` (Town)
+- `Landkreis` (County)
+- `Bundesland` (State)
+
 See `src/main/resources/ERModell.png` for the entity relationship diagram.
 
 ## Example Usage
@@ -91,5 +94,3 @@ select b1_0.id,b1_0.name from Bundesland b1_0 where 1=1 and b1_0.name=?
 OUTPUT:
 select l1_0.id,l1_0.bundesland_id,l1_0.name from Landkreis l1_0 left join Bundesland b1_0 on b1_0.id=l1_0.bundesland_id where 1=1 and b1_0.name=?
 ```
-
-**Note**: Database configuration is currently handled via `persistence.xml` in test resources. For production use, configure your database connection accordingly.
