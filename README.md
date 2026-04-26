@@ -1,6 +1,6 @@
 # Dynamic Filtering
 
-A Java project demonstrating advanced filtering capabilities for JPA entities using both **JPA Criteria API** and **QueryDSL**.
+A Java project demonstrating advanced filtering capabilities for JPA entities using both **JPA Criteria API** and **querydsl**.
 
 ## Installation & Running
 
@@ -15,7 +15,7 @@ mvn clean install
 
 - **Dual Implementation Approach**
   - JPA Criteria API
-  - QueryDSL
+  - querydsl
 - **Dynamic Operator Support** (equals, greater than, less than, like, etc.)
 - **Join Support** (left joins, nested joins)
 - **Comprehensive Test Coverage**

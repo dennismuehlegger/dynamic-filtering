@@ -1,10 +1,10 @@
-import Entities.*;
+import entity.*;
 import jakarta.persistence.EntityManager;
 import jakarta.persistence.EntityManagerFactory;
 import jakarta.persistence.Persistence;
-import Reusables.SQLDefinition;
-import CriteriaBuilder.CriteriaBuilderLogic;
-import Reusables.Operators;
+import reusables.SQLDefinition;
+import criteriabuilder.CriteriaBuilderLogic;
+import reusables.Operators;
 import org.junit.After;
 import org.junit.Before;
 import org.junit.Test;

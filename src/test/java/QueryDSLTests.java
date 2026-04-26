@@ -1,10 +1,10 @@
-import Entities.*;
+import entity.*;
 import jakarta.persistence.EntityManager;
 import jakarta.persistence.EntityManagerFactory;
 import jakarta.persistence.Persistence;
-import QueryDSL.QueryDSLLogic;
-import Reusables.Operators;
-import Reusables.SQLDefinition;
+import querydsl.QueryDSLLogic;
+import reusables.Operators;
+import reusables.SQLDefinition;
 import org.junit.After;
 import org.junit.Before;
 import org.junit.Test;

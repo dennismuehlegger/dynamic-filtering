@@ -4,7 +4,26 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="49cbe86b-9a77-4105-93d2-633292d60584" name="Changes" comment="added imports for tests" />
+    <list default="true" id="49cbe86b-9a77-4105-93d2-633292d60584" name="Changes" comment="added imports for tests">
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_revert_[Changes]/shelved.patch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_revert__Changes_.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DynamicFiltering.iml" beforeDir="false" afterPath="$PROJECT_DIR$/DynamicFiltering.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/main/resources/ERModell.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/test/resources/META-INF/persistence.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/CriteriaBuilderTests.txt" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/CriteriaBuilderTests.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/QueryDSLTests.txt" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/QueryDSLTests.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-CriteriaBuilderTests.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-CriteriaBuilderTests.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-QueryDSLTests.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-QueryDSLTests.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/QueryDSLTests.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/QueryDSLTests.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/resources/META-INF/persistence.xml" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,10 +32,14 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 0
 }</component>
   <component name="ProjectId" id="35Hc95kIbnQWNtpcMtj3IppbTrA" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -29,6 +52,7 @@
     &quot;JUnit.CriteriaBuilderTests.searchLandkreisSimpleLeftJoinToBundeslandCriteriaBuilder.executor&quot;: &quot;Run&quot;,
     &quot;JUnit.QueryDSLTests.executor&quot;: &quot;Run&quot;,
     &quot;Maven.DynamicFiltering [test].executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
@@ -45,6 +69,7 @@
     &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
     &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
     &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
     &quot;to.speed.mode.migration.done&quot;: &quot;true&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
@@ -53,6 +78,11 @@
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\mhld\Desktop\dynamic-filtering\src\main\resources" />
     </key>
+  </component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="mvn clean install" />
+    </option>
   </component>
   <component name="RunManager" selected="JUnit.CriteriaBuilderTests.searchLandkreisSimpleLeftJoinToBundeslandCriteriaBuilder">
     <configuration name="CriteriaBuilderTests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
@@ -121,6 +151,7 @@
       </set>
     </attachedChunks>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="49cbe86b-9a77-4105-93d2-633292d60584" name="Changes" comment="" />
