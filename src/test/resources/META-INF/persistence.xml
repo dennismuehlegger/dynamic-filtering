@@ -3,13 +3,13 @@
     <persistence-unit name="test-persistence-unit" transaction-type="RESOURCE_LOCAL">
         <provider>org.hibernate.jpa.HibernatePersistenceProvider</provider>
 
-        <class>Entities.Bundesland</class>
-        <class>Entities.Landkreis</class>
-        <class>Entities.Ort</class>
-        <class>Entities.Kunde</class>
-        <class>Entities.Produkt</class>
-        <class>Entities.Bestellung</class>
-        <class>Entities.BestProd</class>
+        <class>entity.Bundesland</class>
+        <class>entity.Landkreis</class>
+        <class>entity.Ort</class>
+        <class>entity.Kunde</class>
+        <class>entity.Produkt</class>
+        <class>entity.Bestellung</class>
+        <class>entity.BestProd</class>
 
 
         <properties>
