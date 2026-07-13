@@ -1,6 +1,6 @@
 # Dynamic Filtering
 
-> This project has been extended into a generic, domain-agnostic version. See [jpa-dynamic-filter](https://github.com/dennismuehlegger/jpa-dynamic-filter) for the current version.
+> The architecture has been completely refactored into an industry-standard implementation using **Spring Data JPA** on a fixed database schema. This approach delivers clean, type-safe, and highly maintainable dynamic filters. See [jpa-dynamic-filter](https://github.com/dennismuehlegger/jpa-dynamic-filter) for the current version.
 
 A Java project demonstrating advanced filtering capabilities for JPA entities using both **JPA Criteria API** and **querydsl**.
 
